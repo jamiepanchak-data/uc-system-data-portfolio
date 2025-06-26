@@ -1,0 +1,823 @@
+"unitid","institution name","year","DRVGR2023.Graduation rate, total cohort","DRVGR2023.Graduation rate - Bachelor degree within 6 years, total"
+"100654","Alabama A & M University","2023","29","29"
+"100663","University of Alabama at Birmingham","2023","63","62"
+"100706","University of Alabama in Huntsville","2023","62","62"
+"100724","Alabama State University","2023","30","30"
+"100751","The University of Alabama","2023","74","74"
+"100812","Athens State University","2023",,
+"100830","Auburn University at Montgomery","2023","36","36"
+"100858","Auburn University","2023","79","79"
+"101480","Jacksonville State University","2023","51","51"
+"101587","University of West Alabama","2023","38","37"
+"101709","University of Montevallo","2023","49","49"
+"101879","University of North Alabama","2023","54","54"
+"102094","University of South Alabama","2023","53","52"
+"102368","Troy University","2023","47","46"
+"102553","University of Alaska Anchorage","2023","29","28"
+"102614","University of Alaska Fairbanks","2023","32","33"
+"102632","University of Alaska Southeast","2023","31","33"
+"104151","Arizona State University Campus Immersion","2023","68","68"
+"104179","University of Arizona","2023","66","66"
+"104708","Glendale Community College","2023","14",
+"105145","GateWay Community College","2023","20",
+"105297","Dine College","2023","5",
+"105330","Northern Arizona University","2023","57","57"
+"105668","Rio Salado College","2023","4",
+"106148","Yavapai College","2023","32",
+"106245","University of Arkansas at Little Rock","2023","41","39"
+"106263","University of Arkansas for Medical Sciences","2023",,
+"106397","University of Arkansas","2023","70","70"
+"106412","University of Arkansas at Pine Bluff","2023","40","40"
+"106458","Arkansas State University","2023","55","53"
+"106467","Arkansas Tech University","2023","49","43"
+"106485","University of Arkansas at Monticello","2023","43","35"
+"106704","University of Central Arkansas","2023","53","53"
+"107071","Henderson State University","2023","38","39"
+"107983","Southern Arkansas University Main Campus","2023","46","41"
+"108092","University of Arkansas-Fort Smith","2023","37","36"
+"109350","Antelope Valley Community College District","2023","31",
+"109819","Bakersfield College","2023","23","0"
+"110398","University of California College of the Law-San Francisco","2023",,
+"110422","California Polytechnic State University-San Luis Obispo","2023","85","85"
+"110486","California State University-Bakersfield","2023","49","49"
+"110495","California State University-Stanislaus","2023","58","58"
+"110510","California State University-San Bernardino","2023","55","55"
+"110529","California State Polytechnic University-Pomona","2023","67","67"
+"110538","California State University-Chico","2023","64","64"
+"110547","California State University-Dominguez Hills","2023","47","47"
+"110556","California State University-Fresno","2023","55","55"
+"110565","California State University-Fullerton","2023","69","69"
+"110574","California State University-East Bay","2023","46","46"
+"110583","California State University-Long Beach","2023","70","70"
+"110592","California State University-Los Angeles","2023","53","53"
+"110608","California State University-Northridge","2023","56","56"
+"110617","California State University-Sacramento","2023","56","56"
+"110635","University of California-Berkeley","2023","93","93"
+"110644","University of California-Davis","2023","85","85"
+"110653","University of California-Irvine","2023","86","86"
+"110662","University of California-Los Angeles","2023","93","93"
+"110671","University of California-Riverside","2023","77","77"
+"110680","University of California-San Diego","2023","88","88"
+"110699","University of California-San Francisco","2023",,
+"110705","University of California-Santa Barbara","2023","85","85"
+"110714","University of California-Santa Cruz","2023","74","74"
+"111188","California State University Maritime Academy","2023","67","67"
+"113236","Cypress College","2023","35",
+"114433","Feather River Community College District","2023","47","40"
+"114716","Foothill College","2023","60",
+"115755","California State Polytechnic University-Humboldt","2023","47","47"
+"118912","MiraCosta College","2023","41","96"
+"118976","Modesto Junior College","2023","26","0"
+"119678","Naval Postgraduate School","2023",,
+"121619","Santa Ana College","2023","32",
+"121886","Rio Hondo College","2023","27",
+"122375","San Diego Mesa College","2023","34",
+"122409","San Diego State University","2023","78","78"
+"122597","San Francisco State University","2023","50","50"
+"122755","San Jose State University","2023","65","65"
+"122977","Santa Monica College","2023","36","0"
+"123299","Shasta College","2023","29",
+"123509","Skyline College","2023","41",
+"123563","Solano Community College","2023","34",
+"123572","Sonoma State University","2023","61","61"
+"125471","West Los Angeles College","2023","21",
+"126182","Adams State University","2023","32","27"
+"126207","Aims Community College","2023","35",
+"126289","Arapahoe Community College","2023","27",
+"126562","University of Colorado Denver/Anschutz Medical Campus","2023","47","47"
+"126580","University of Colorado Colorado Springs","2023","45","45"
+"126614","University of Colorado Boulder","2023","75","75"
+"126711","Colorado Mountain College","2023","26","14"
+"126775","Colorado School of Mines","2023","79","79"
+"126818","Colorado State University-Fort Collins","2023","67","67"
+"126942","Community College of Denver","2023","16",
+"127185","Fort Lewis College","2023","43","43"
+"127200","Front Range Community College","2023","30",
+"127556","Colorado Mesa University","2023","42","47"
+"127565","Metropolitan State University of Denver","2023","30","30"
+"127617","Morgan Community College","2023","46",
+"127741","University of Northern Colorado","2023","51","51"
+"127820","Pikes Peak State College","2023","23",
+"127884","Pueblo Community College","2023","37",
+"127909","Red Rocks Community College","2023","37",
+"128106","Colorado State University Pueblo","2023","38","38"
+"128258","Trinidad State College","2023","56",
+"128328","United States Air Force Academy","2023","88","88"
+"128391","Western Colorado University","2023","51","51"
+"128771","Central Connecticut State University","2023","49","49"
+"128780","Charter Oak State College","2023",,
+"129020","University of Connecticut","2023","84","84"
+"129215","Eastern Connecticut State University","2023","58","58"
+"130493","Southern Connecticut State University","2023","48","48"
+"130624","United States Coast Guard Academy","2023","88","88"
+"130776","Western Connecticut State University","2023","50","50"
+"130907","Delaware Technical Community College-Terry","2023","19",
+"130934","Delaware State University","2023","39","39"
+"130943","University of Delaware","2023","79","81"
+"131399","University of the District of Columbia","2023","26","40"
+"132693","Eastern Florida State College","2023","51",
+"132709","Broward College","2023","36",
+"132851","College of Central Florida","2023","44",
+"132903","University of Central Florida","2023","75","75"
+"133021","Chipola College","2023","61",
+"133386","Daytona State College","2023","41",
+"133508","Florida SouthWestern State College","2023","39",
+"133650","Florida Agricultural and Mechanical University","2023","52","52"
+"133669","Florida Atlantic University","2023","64","64"
+"133702","Florida State College at Jacksonville","2023","32",
+"133951","Florida International University","2023","74","74"
+"133960","The College of the Florida Keys","2023","41",
+"134097","Florida State University","2023","83","83"
+"134130","University of Florida","2023","92","91"
+"134343","Gulf Coast State College","2023","45",
+"134495","Hillsborough Community College","2023","33",
+"134608","Indian River State College","2023","42",
+"135160","Florida Gateway College","2023","57",
+"135188","Lake-Sumter State College","2023","45",
+"135391","State College of Florida-Manatee-Sarasota","2023","35",
+"135717","Miami Dade College","2023","45",
+"136145","North Florida College","2023","63",
+"136172","University of North Florida","2023","68","63"
+"136233","Northwest Florida State College","2023","43",
+"136358","Palm Beach State College","2023","41",
+"136400","Pasco-Hernando State College","2023","43",
+"136473","Pensacola State College","2023","42",
+"136516","Polk State College","2023","34",
+"137078","St Petersburg College","2023","37",
+"137096","Santa Fe College","2023","52",
+"137209","Seminole State College of Florida","2023","42",
+"137281","Saint Johns River State College","2023","46",
+"137315","South Florida State College","2023","51",
+"137351","University of South Florida","2023","75","75"
+"137759","Tallahassee Community College","2023","37",
+"138187","Valencia College","2023","44",
+"138354","University of West Florida","2023","62","62"
+"138558","Abraham Baldwin Agricultural College","2023","29","28"
+"138716","Albany State University","2023","23","29"
+"138901","Atlanta Metropolitan State College","2023","14","0"
+"139250","College of Coastal Georgia","2023","26","26"
+"139311","Clayton  State University","2023","35","35"
+"139366","Columbus State University","2023","42","42"
+"139463","Dalton State College","2023","30","31"
+"139621","East Georgia State College","2023","14","4"
+"139700","Georgia Highlands College","2023","21","0"
+"139719","Fort Valley State University","2023","45","45"
+"139755","Georgia Institute of Technology-Main Campus","2023","92","92"
+"139764","Georgia Southwestern State University","2023","32","32"
+"139861","Georgia College & State University","2023","62","62"
+"139931","Georgia Southern University","2023","52","53"
+"139940","Georgia State University","2023","54","54"
+"139959","University of Georgia","2023","87","87"
+"139968","Gordon State College","2023","17","16"
+"140960","Savannah State University","2023","25","27"
+"141264","Valdosta State University","2023","42","42"
+"141334","University of West Georgia","2023","43","43"
+"141565","University of Hawaii at Hilo","2023","42","42"
+"141574","University of Hawaii at Manoa","2023","63","63"
+"141839","University of Hawaii Maui College","2023","27","13"
+"141981","University of Hawaii-West Oahu","2023","47","47"
+"142115","Boise State University","2023","62","61"
+"142276","Idaho State University","2023","38","35"
+"142285","University of Idaho","2023","61","61"
+"142328","Lewis-Clark State College","2023","45","37"
+"142559","College of Southern Idaho","2023","35",
+"144005","Chicago State University","2023","17","17"
+"144892","Eastern Illinois University","2023","45","45"
+"145336","Governors State University","2023","20","20"
+"145600","University of Illinois Chicago","2023","60","60"
+"145637","University of Illinois Urbana-Champaign","2023","85","85"
+"145813","Illinois State University","2023","66","66"
+"147703","Northern Illinois University","2023","50","50"
+"147776","Northeastern Illinois University","2023","17","17"
+"148654","University of Illinois Springfield","2023","61","61"
+"149222","Southern Illinois University-Carbondale","2023","56","54"
+"149231","Southern Illinois University-Edwardsville","2023","55","53"
+"149772","Western Illinois University","2023","45","45"
+"150136","Ball State University","2023","63","63"
+"151102","Purdue University Fort Wayne","2023","32","32"
+"151111","Indiana University-Indianapolis","2023","54","54"
+"151306","University of Southern Indiana","2023","52","52"
+"151324","Indiana State University","2023","41","41"
+"151333","Indiana University-Kokomo","2023","45","44"
+"151342","Indiana University-South Bend","2023","36","36"
+"151351","Indiana University-Bloomington","2023","81","81"
+"151360","Indiana University-Northwest","2023","37","36"
+"151379","Indiana University-Southeast","2023","33","33"
+"151388","Indiana University-East","2023","45","45"
+"152637","Vincennes University","2023","35","29"
+"153603","Iowa State University","2023","75","75"
+"153658","University of Iowa","2023","73","73"
+"154095","University of Northern Iowa","2023","69","69"
+"155025","Emporia State University","2023","54","54"
+"155061","Fort Hays State University","2023","48","48"
+"155140","Haskell Indian Nations University","2023","43",
+"155317","University of Kansas","2023","69","69"
+"155399","Kansas State University","2023","70","70"
+"155681","Pittsburg State University","2023","58","54"
+"156082","Washburn University","2023","53","41"
+"156125","Wichita State University","2023","51","51"
+"156620","Eastern Kentucky University","2023","50","55"
+"157058","Kentucky State University","2023","27","28"
+"157085","University of Kentucky","2023","70","70"
+"157289","University of Louisville","2023","61","61"
+"157386","Morehead State University","2023","48","49"
+"157401","Murray State University","2023","60","63"
+"157447","Northern Kentucky University","2023","48","49"
+"157951","Western Kentucky University","2023","54","56"
+"159009","Grambling State University","2023","32","32"
+"159373","Louisiana State University Health Sciences Center-New Orleans","2023",,
+"159382","Louisiana State University-Alexandria","2023","36","40"
+"159391","Louisiana State University and Agricultural & Mechanical College","2023","71","68"
+"159416","Louisiana State University-Shreveport","2023","33","33"
+"159647","Louisiana Tech University","2023","58","57"
+"159717","McNeese State University","2023","52","51"
+"159939","University of New Orleans","2023","43","43"
+"159966","Nicholls State University","2023","54","53"
+"159993","University of Louisiana at Monroe","2023","51","48"
+"160038","Northwestern State University of Louisiana","2023","45","44"
+"160612","Southeastern Louisiana University","2023","45","45"
+"160621","Southern University and A & M College","2023","28","28"
+"160630","Southern University at New Orleans","2023","18","18"
+"160658","University of Louisiana at Lafayette","2023","52","52"
+"161217","University of Maine at Augusta","2023","23","20"
+"161226","University of Maine at Farmington","2023","53","53"
+"161235","University of Maine at Fort Kent","2023","40","36"
+"161253","University of Maine","2023","56","56"
+"161299","Maine Maritime Academy","2023","61","62"
+"161341","University of Maine at Presque Isle","2023","38","34"
+"161554","University of Southern Maine","2023","46","46"
+"161873","University of Baltimore","2023","47","47"
+"162007","Bowie State University","2023","38","38"
+"162283","Coppin State University","2023","26","26"
+"162584","Frostburg State University","2023","52","52"
+"163204","University of Maryland Global Campus","2023","30","24"
+"163259","University of Maryland, Baltimore","2023",,
+"163268","University of Maryland-Baltimore County","2023","71","70"
+"163286","University of Maryland-College Park","2023","89","88"
+"163338","University of Maryland Eastern Shore","2023","35","35"
+"163453","Morgan State University","2023","42","42"
+"163851","Salisbury University","2023","67","67"
+"163912","St. Mary's College of Maryland","2023","68","68"
+"164076","Towson University","2023","68","68"
+"164155","United States Naval Academy","2023","92","92"
+"165024","Bridgewater State University","2023","55","55"
+"165820","Fitchburg State University","2023","53","53"
+"165866","Framingham State University","2023","50","50"
+"166513","University of Massachusetts-Lowell","2023","70","70"
+"166629","University of Massachusetts-Amherst","2023","83","83"
+"166638","University of Massachusetts-Boston","2023","51","51"
+"166674","Massachusetts College of Art and Design","2023","69","69"
+"166692","Massachusetts Maritime Academy","2023","79","79"
+"166708","University of Massachusetts Chan Medical School","2023",,
+"167288","Massachusetts College of Liberal Arts","2023","49","49"
+"167525","Quincy College","2023","17",
+"167729","Salem State University","2023","55","55"
+"167987","University of Massachusetts-Dartmouth","2023","49","49"
+"168263","Westfield State University","2023","55","55"
+"168430","Worcester State University","2023","56","56"
+"168607","Alpena Community College","2023","50","33"
+"169248","Central Michigan University","2023","62","62"
+"169798","Eastern Michigan University","2023","45","45"
+"169910","Ferris State University","2023","48","54"
+"170082","Grand Valley State University","2023","69","69"
+"170240","Henry Ford College","2023","11",
+"170444","Jackson College","2023","17",
+"170639","Lake Superior State University","2023","57","56"
+"170976","University of Michigan-Ann Arbor","2023","93","93"
+"171100","Michigan State University","2023","82","83"
+"171128","Michigan Technological University","2023","69","69"
+"171137","University of Michigan-Dearborn","2023","57","56"
+"171146","University of Michigan-Flint","2023","45","45"
+"171456","Northern Michigan University","2023","51","53"
+"171483","Northwestern Michigan College","2023","25","70"
+"171571","Oakland University","2023","57","57"
+"172051","Saginaw Valley State University","2023","54","54"
+"172200","Schoolcraft Community College District","2023","15",
+"172644","Wayne State University","2023","57","57"
+"172699","Western Michigan University","2023","58","58"
+"173124","Bemidji State University","2023","53","52"
+"173920","Minnesota State University-Mankato","2023","54","54"
+"174020","Metropolitan State University","2023","38","38"
+"174066","University of Minnesota-Twin Cities","2023","85","85"
+"174075","University of Minnesota-Crookston","2023","50","50"
+"174233","University of Minnesota-Duluth","2023","64","64"
+"174251","University of Minnesota-Morris","2023","62","62"
+"174358","Minnesota State University Moorhead","2023","55","54"
+"174783","Saint Cloud State University","2023","47","46"
+"175078","Southwest Minnesota State University","2023","44","43"
+"175272","Winona State University","2023","61","60"
+"175342","Alcorn State University","2023","46","45"
+"175616","Delta State University","2023","47","47"
+"175856","Jackson State University","2023","32","32"
+"176017","University of Mississippi","2023","68","68"
+"176035","Mississippi University for Women","2023","38","37"
+"176044","Mississippi Valley State University","2023","22","22"
+"176080","Mississippi State University","2023","63","63"
+"176372","University of Southern Mississippi","2023","51","51"
+"176965","University of Central Missouri","2023","49","49"
+"177472","Ozarks Technical Community College","2023","32",
+"177551","Harris-Stowe State University","2023","27","27"
+"177940","Lincoln University","2023","22","22"
+"178341","Missouri Southern State University","2023","38","35"
+"178387","Missouri Western State University","2023","40","40"
+"178396","University of Missouri-Columbia","2023","76","76"
+"178402","University of Missouri-Kansas City","2023","56","55"
+"178411","Missouri University of Science and Technology","2023","64","64"
+"178420","University of Missouri-St Louis","2023","57","57"
+"178615","Truman State University","2023","68","68"
+"178624","Northwest Missouri State University","2023","58","57"
+"179308","Saint Louis Community College","2023","18",
+"179557","Southeast Missouri State University","2023","56","56"
+"179566","Missouri State University-Springfield","2023","57","57"
+"180179","Montana State University Billings","2023","28","28"
+"180203","Aaniiih Nakoda College","2023","32",
+"180416","Montana Technological University","2023","58","58"
+"180461","Montana State University","2023","57","57"
+"180489","The University of Montana","2023","45","45"
+"180522","Montana State University-Northern","2023","42","35"
+"180647","Salish Kootenai College","2023","35","15"
+"180692","The University of Montana-Western","2023","49","49"
+"180948","Chadron State College","2023","38","38"
+"181215","University of Nebraska at Kearney","2023","60","60"
+"181394","University of Nebraska at Omaha","2023","47","49"
+"181419","Nebraska Indian Community College","2023","17",
+"181428","University of Nebraska Medical Center","2023",,
+"181464","University of Nebraska-Lincoln","2023","66","66"
+"181534","Peru State College","2023","38","38"
+"181783","Wayne State College","2023","56","56"
+"182005","College of Southern Nevada","2023","18",
+"182281","University of Nevada-Las Vegas","2023","50","50"
+"182290","University of Nevada-Reno","2023","62","62"
+"182306","Great Basin College","2023","52","9"
+"182500","Truckee Meadows Community College","2023","28",
+"182564","Western Nevada College","2023","37",
+"182829","University of New Hampshire-Franklin Pierce School of Law","2023",,
+"183044","University of New Hampshire-Main Campus","2023","76","77"
+"183062","Keene State College","2023","58","58"
+"183071","University of New Hampshire at Manchester","2023","65","75"
+"183080","Plymouth State University","2023","47","47"
+"183257","University of New Hampshire College of Professional Studies Online","2023","14","12"
+"184782","Rowan University","2023","68","68"
+"185129","New Jersey City University","2023","39","39"
+"185262","Kean University","2023","43","43"
+"185590","Montclair State University","2023","64","64"
+"185828","New Jersey Institute of Technology","2023","73","73"
+"186201","Ramapo College of New Jersey","2023","72","72"
+"186371","Rutgers University-Camden","2023","66","66"
+"186380","Rutgers University-New Brunswick","2023","85","85"
+"186399","Rutgers University-Newark","2023","68","68"
+"186876","Stockton University","2023","72","72"
+"187046","Thomas Edison State University","2023",,
+"187134","The College of New Jersey","2023","85","85"
+"187444","William Paterson University of New Jersey","2023","48","48"
+"187596","Navajo Technical University","2023","20","11"
+"187648","Eastern New Mexico University-Main Campus","2023","40","34"
+"187745","Institute of American Indian and Alaska Native Culture and Arts Development","2023","25","28"
+"187897","New Mexico Highlands University","2023","26","26"
+"187967","New Mexico Institute of Mining and Technology","2023","56","56"
+"187985","University of New Mexico-Main Campus","2023","53","52"
+"188030","New Mexico State University-Main Campus","2023","52","52"
+"188058","Northern New Mexico College","2023","33","22"
+"188304","Western New Mexico University","2023","35","26"
+"190512","CUNY Bernard M Baruch College","2023","72","72"
+"190549","CUNY Brooklyn College","2023","57","57"
+"190558","College of Staten Island CUNY","2023","33","48"
+"190567","CUNY City College","2023","55","55"
+"190576","CUNY Graduate School and University Center","2023",,
+"190594","CUNY Hunter College","2023","61","61"
+"190600","CUNY John Jay College of Criminal Justice","2023","55","55"
+"190637","CUNY Lehman College","2023","49","49"
+"190646","CUNY Medgar Evers College","2023","22","19"
+"190655","CUNY New York City College of Technology","2023","19","23"
+"190664","CUNY Queens College","2023","60","60"
+"190682","CUNY School of Law","2023",,
+"190691","CUNY York College","2023","30","30"
+"191126","Fashion Institute of Technology","2023","83",
+"196006","SUNY College of Technology at Alfred","2023","53","45"
+"196015","SUNY College of Technology at Canton","2023","44","51"
+"196024","SUNY College of Technology at Delhi","2023","48","56"
+"196033","SUNY College of Agriculture and Technology at Cobleskill","2023","41","54"
+"196042","Farmingdale State College","2023","57","59"
+"196051","SUNY Morrisville","2023","32","34"
+"196060","University at Albany","2023","64","64"
+"196079","Binghamton University","2023","84","84"
+"196088","University at Buffalo","2023","73","73"
+"196097","Stony Brook University","2023","78","78"
+"196103","SUNY College of Environmental Science and Forestry","2023","70","68"
+"196112","SUNY Polytechnic Institute","2023","59","59"
+"196121","SUNY Brockport","2023","57","57"
+"196130","SUNY Buffalo State University","2023","36","36"
+"196149","State University of New York at Cortland","2023","68","68"
+"196158","SUNY at Fredonia","2023","53","53"
+"196167","SUNY College at Geneseo","2023","72","72"
+"196176","State University of New York at New Paltz","2023","69","69"
+"196185","SUNY Oneonta","2023","70","70"
+"196194","State University of New York at Oswego","2023","60","60"
+"196200","SUNY College at Potsdam","2023","48","48"
+"196219","SUNY at Purchase College","2023","62","62"
+"196228","SUNY College of Optometry","2023",,
+"196237","SUNY Old Westbury","2023","47","47"
+"196246","SUNY College at Plattsburgh","2023","59","59"
+"196255","SUNY Downstate Health Sciences University","2023",,
+"196264","Empire State University","2023","29","22"
+"196291","SUNY Maritime College","2023","75","76"
+"196307","Upstate Medical University","2023",,
+"197027","United States Merchant Marine Academy","2023","81","81"
+"197036","United States Military Academy","2023","85","85"
+"197869","Appalachian State University","2023","73","73"
+"198464","East Carolina University","2023","62","62"
+"198507","Elizabeth City State University","2023","48","48"
+"198543","Fayetteville State University","2023","35","35"
+"199102","North Carolina A & T State University","2023","55","55"
+"199111","University of North Carolina Asheville","2023","55","55"
+"199120","University of North Carolina at Chapel Hill","2023","92","92"
+"199139","University of North Carolina at Charlotte","2023","68","68"
+"199148","University of North Carolina at Greensboro","2023","58","58"
+"199157","North Carolina Central University","2023","46","46"
+"199184","University of North Carolina School of the Arts","2023","79","80"
+"199193","North Carolina State University at Raleigh","2023","85","85"
+"199218","University of North Carolina Wilmington","2023","71","71"
+"199281","University of North Carolina at Pembroke","2023","45","45"
+"199999","Winston-Salem State University","2023","49","49"
+"200004","Western Carolina University","2023","59","59"
+"200022","Bismarck State College","2023","48",
+"200059","Dickinson State University","2023","43","40"
+"200086","Nueta Hidatsa Sahnish College","2023","17","100"
+"200226","Mayville State University","2023","40","42"
+"200253","Minot State University","2023","48","48"
+"200280","University of North Dakota","2023","63","63"
+"200332","North Dakota State University-Main Campus","2023","64","64"
+"200466","Sitting Bull College","2023","24",
+"200572","Valley City State University","2023","48","48"
+"200697","Air Force Institute of Technology-Graduate School of Engineering & Management","2023",,
+"200800","University of Akron Main Campus","2023","48","53"
+"201432","Bowling Green State University-Firelands","2023","10",
+"201441","Bowling Green State University-Main Campus","2023","63","62"
+"201672","Central Ohio Technical College","2023","24",
+"201690","Central State University","2023","26","26"
+"201885","University of Cincinnati-Main Campus","2023","72","71"
+"201928","Cincinnati State Technical and Community College","2023","20",
+"201946","University of Cincinnati-Clermont College","2023","25",
+"201955","University of Cincinnati-Blue Ash College","2023","15",
+"201973","Clark State College","2023","25",
+"202134","Cleveland State University","2023","49","49"
+"203447","Kent State University at Ashtabula","2023","26","0"
+"203456","Kent State University at East Liverpool","2023","10","0"
+"203465","Kent State University at Stark","2023","37","2"
+"203474","Kent State University at Trumbull","2023","27","1"
+"203483","Kent State University at Tuscarawas","2023","37","5"
+"203492","Kent State University at Salem","2023","28","2"
+"203517","Kent State University at Kent","2023","65","65"
+"203526","Kent State University at Geauga","2023","26","0"
+"203678","James A. Rhodes State College","2023","33",
+"203748","Lorain County Community College","2023","33",
+"203881","Marion Technical College","2023","22",
+"204006","Miami University-Hamilton","2023","22","20"
+"204015","Miami University-Middletown","2023","25","22"
+"204024","Miami University-Oxford","2023","82","82"
+"204255","Zane State College","2023","53",
+"204422","North Central State College","2023","34",
+"204477","Northeast Ohio Medical University","2023",,
+"204671","Ohio State University-Lima Campus","2023","18","12"
+"204680","Ohio State University-Mansfield Campus","2023","14","7"
+"204699","Ohio State University-Marion Campus","2023","26","8"
+"204705","Ohio State University-Newark Campus","2023","31","5"
+"204796","Ohio State University-Main Campus","2023","88","88"
+"204802","Ohio University-Eastern Campus","2023","20","19"
+"204820","Ohio University-Chillicothe Campus","2023","12","10"
+"204839","Ohio University-Southern Campus","2023","19","12"
+"204848","Ohio University-Lancaster Campus","2023","14","11"
+"204857","Ohio University-Main Campus","2023","66","66"
+"204866","Ohio University-Zanesville Campus","2023","18","18"
+"205443","Shawnee State University","2023","43","47"
+"205470","Sinclair Community College","2023","32",
+"206084","University of Toledo","2023","56","58"
+"206446","Washington State Community College","2023","32",
+"206604","Wright State University-Main Campus","2023","46","46"
+"206613","Wright State University-Lake Campus","2023","42","39"
+"206695","Youngstown State University","2023","53","53"
+"206914","Cameron University","2023","22","28"
+"206941","University of Central Oklahoma","2023","38","37"
+"207041","East Central University","2023","33","33"
+"207209","Langston University","2023","17","19"
+"207263","Northeastern State University","2023","37","37"
+"207306","Northwestern Oklahoma State University","2023","35","35"
+"207315","Oklahoma State University Center for Health Sciences","2023",,
+"207342","University of Oklahoma-Health Sciences Center","2023",,
+"207351","Oklahoma Panhandle State University","2023","26","31"
+"207388","Oklahoma State University-Main Campus","2023","66","66"
+"207397","Oklahoma State University-Oklahoma City","2023","13",
+"207500","University of Oklahoma-Norman Campus","2023","75","75"
+"207564","Oklahoma State University Institute of Technology","2023","42",
+"207661","Rogers State University","2023","25","31"
+"207722","University of Science and Arts of Oklahoma","2023","36","36"
+"207847","Southeastern Oklahoma State University","2023","33","33"
+"207865","Southwestern Oklahoma State University","2023","35","36"
+"208390","Chemeketa Community College","2023","22",
+"208646","Eastern Oregon University","2023","37","37"
+"209250","Mt Hood Community College","2023","26",
+"209490","Oregon Health & Science University","2023",,
+"209506","Oregon Institute of Technology","2023","59","59"
+"209542","Oregon State University","2023","71","71"
+"209551","University of Oregon","2023","71","71"
+"209807","Portland State University","2023","53","53"
+"210146","Southern Oregon University","2023","44","44"
+"210429","Western Oregon University","2023","45","45"
+"211608","Cheyney University of Pennsylvania","2023","16","16"
+"212115","East Stroudsburg University of Pennsylvania","2023","44","44"
+"213020","Indiana University of Pennsylvania-Main Campus","2023","52","53"
+"213349","Kutztown University of Pennsylvania","2023","54","54"
+"213598","Lincoln University","2023","52","52"
+"214041","Millersville University of Pennsylvania","2023","54","54"
+"214591","Pennsylvania State University-Penn State Erie-Behrend College","2023","46","46"
+"214607","Pennsylvania State University-Penn State Great Valley","2023",,
+"214625","Pennsylvania State University-Penn State New Kensington","2023","24","20"
+"214634","Pennsylvania State University-Penn State Shenango","2023","23","11"
+"214643","Pennsylvania State University-Penn State Wilkes-Barre","2023","17","16"
+"214652","Pennsylvania State University-Penn State Scranton","2023","32","31"
+"214670","Pennsylvania State University-Penn State Lehigh Valley","2023","17","17"
+"214689","Pennsylvania State University-Penn State Altoona","2023","18","18"
+"214698","Pennsylvania State University-Penn State Beaver","2023","21","21"
+"214704","Pennsylvania State University-Penn State Berks","2023","24","23"
+"214713","Pennsylvania State University-Penn State Harrisburg","2023","29","29"
+"214731","Pennsylvania State University-Penn State Brandywine","2023","21","21"
+"214740","Pennsylvania State University-Penn State DuBois","2023","29","22"
+"214759","Pennsylvania State University-Penn State Fayette- Eberly","2023","34","31"
+"214768","Pennsylvania State University-Penn State Hazleton","2023","18","14"
+"214777","Pennsylvania State University-Main Campus","2023","86","86"
+"214786","Pennsylvania State University-Penn State Greater Allegheny","2023","27","27"
+"214795","Pennsylvania State University-Penn State Mont Alto","2023","25","18"
+"214801","Pennsylvania State University-Penn State Abington","2023","22","22"
+"214810","Pennsylvania State University-Penn State Schuylkill","2023","21","16"
+"214829","Pennsylvania State University-Penn State York","2023","11","12"
+"215266","University of Pittsburgh-Bradford","2023","43","47"
+"215275","University of Pittsburgh-Greensburg","2023","40","40"
+"215284","University of Pittsburgh-Johnstown","2023","53","54"
+"215293","University of Pittsburgh-Pittsburgh Campus","2023","84","84"
+"216010","Shippensburg University of Pennsylvania","2023","52","52"
+"216038","Slippery Rock University of Pennsylvania","2023","66","66"
+"216339","Temple University","2023","75","75"
+"216764","West Chester University of Pennsylvania","2023","70","70"
+"217420","Rhode Island College","2023","46","46"
+"217484","University of Rhode Island","2023","71","70"
+"217819","College of Charleston","2023","65","65"
+"217864","Citadel Military College of South Carolina","2023","73","73"
+"217882","Clemson University","2023","88","88"
+"218061","Francis Marion University","2023","43","43"
+"218113","Greenville Technical College","2023","18",
+"218229","Lander University","2023","49","49"
+"218335","Medical University of South Carolina","2023",,
+"218645","University of South Carolina Aiken","2023","40","40"
+"218654","University of South Carolina Beaufort","2023","39","39"
+"218663","University of South Carolina-Columbia","2023","78","78"
+"218724","Coastal Carolina University","2023","51","51"
+"218733","South Carolina State University","2023","29","29"
+"218742","University of South Carolina-Upstate","2023","42","42"
+"218964","Winthrop University","2023","61","61"
+"219046","Black Hills State University","2023","39","40"
+"219082","Dakota State University","2023","49","48"
+"219259","Northern State University","2023","52","55"
+"219277","Oglala Lakota College","2023","11","4"
+"219347","South Dakota School of Mines and Technology","2023","58","58"
+"219356","South Dakota State University","2023","60","59"
+"219374","Sinte Gleska University","2023","0","0"
+"219408","Sisseton Wahpeton College","2023","13",
+"219471","University of South Dakota","2023","61","61"
+"219602","Austin Peay State University","2023","45","43"
+"220075","East Tennessee State University","2023","50","50"
+"220701","The University of Tennessee Southern","2023","36","34"
+"220862","University of Memphis","2023","49","49"
+"220978","Middle Tennessee State University","2023","54","54"
+"221740","The University of Tennessee-Chattanooga","2023","53","53"
+"221759","The University of Tennessee-Knoxville","2023","73","73"
+"221768","The University of Tennessee-Martin","2023","55","55"
+"221838","Tennessee State University","2023","33","34"
+"221847","Tennessee Technological University","2023","54","54"
+"222831","Angelo State University","2023","41","41"
+"222992","Austin Community College District","2023","18",
+"223506","Brazosport College","2023","39",
+"224147","Texas A & M University-Corpus Christi","2023","34","34"
+"224350","Del Mar College","2023","13",
+"224545","Texas A&M University-Texarkana","2023","31","28"
+"224554","Texas A & M University-Commerce","2023","46","46"
+"224615","Dallas College","2023","36",
+"224961","Galveston College","2023","32",
+"225070","Grayson College","2023","20",
+"225308","Trinity Valley Community College","2023","24",
+"225414","University of Houston-Clear Lake","2023","51","51"
+"225423","Houston Community College","2023","17",
+"225432","University of Houston-Downtown","2023","34","34"
+"225502","University of Houston-Victoria","2023","27","27"
+"225511","University of Houston","2023","65","65"
+"226091","Lamar University","2023","37","37"
+"226134","Laredo College","2023","31",
+"226152","Texas A & M International University","2023","49","49"
+"226408","College of the Mainland","2023","28",
+"226806","Midland College","2023","17",
+"226833","Midwestern State University","2023","41","41"
+"227146","Navarro College","2023","24",
+"227182","Lone Star College System","2023","19",
+"227216","University of North Texas","2023","60","60"
+"227304","Odessa College","2023","28",
+"227368","The University of Texas Rio Grande Valley","2023","49","49"
+"227526","Prairie View A & M University","2023","43","43"
+"227881","Sam Houston State University","2023","55","55"
+"227924","San Antonio College","2023","22",
+"227979","San Jacinto Community College","2023","34",
+"228431","Stephen F Austin State University","2023","52","52"
+"228459","Texas State University","2023","56","56"
+"228501","Sul Ross State University","2023","27","27"
+"228529","Tarleton State University","2023","51","51"
+"228635","University of Texas Southwestern Medical Center","2023",,
+"228644","The University of Texas Health Science Center at San Antonio","2023",,
+"228653","The University of Texas Medical Branch at Galveston","2023",,
+"228705","Texas A & M University-Kingsville","2023","46","46"
+"228723","Texas A & M University-College Station","2023","84","84"
+"228769","The University of Texas at Arlington","2023","57","57"
+"228778","The University of Texas at Austin","2023","88","88"
+"228787","The University of Texas at Dallas","2023","71","71"
+"228796","The University of Texas at El Paso","2023","46","46"
+"228802","The University of Texas at Tyler","2023","47","47"
+"228909","University of North Texas Health Science Center","2023",,
+"229018","The University of Texas Permian Basin","2023","43","43"
+"229027","The University of Texas at San Antonio","2023","51","51"
+"229063","Texas Southern University","2023","20","20"
+"229115","Texas Tech University","2023","67","64"
+"229179","Texas Woman's University","2023","44","44"
+"229300","The University of Texas Health Science Center at Houston","2023",,
+"229337","Texas Tech University Health Sciences Center","2023",,
+"229355","Tyler Junior College","2023","27",
+"229799","Weatherford College","2023","23",
+"229814","West Texas A & M University","2023","47","47"
+"230171","Utah Tech University","2023","34","24"
+"230597","Snow College","2023","47","0"
+"230603","Southern Utah University","2023","59","51"
+"230728","Utah State University","2023","57","55"
+"230737","Utah Valley University","2023","41","37"
+"230764","University of Utah","2023","64","64"
+"230782","Weber State University","2023","43","46"
+"230834","Castleton University","2023",,
+"230913","Northern Vermont University","2023",,
+"231165","Vermont State University","2023","49","45"
+"231174","University of Vermont","2023","79","79"
+"231624","William & Mary","2023","91","91"
+"231712","Christopher Newport University","2023","75","75"
+"231970","Eastern Virginia Medical School","2023",,
+"232186","George Mason University","2023","69","69"
+"232423","James Madison University","2023","81","81"
+"232566","Longwood University","2023","62","62"
+"232681","University of Mary Washington","2023","67","67"
+"232937","Norfolk State University","2023","33","33"
+"232982","Old Dominion University","2023","44","44"
+"233277","Radford University","2023","50","50"
+"233897","University of Virginia's College at Wise","2023","50","50"
+"233921","Virginia Polytechnic Institute and State University","2023","86","86"
+"234030","Virginia Commonwealth University","2023","65","65"
+"234076","University of Virginia-Main Campus","2023","95","95"
+"234085","Virginia Military Institute","2023","82","82"
+"234155","Virginia State University","2023","41","41"
+"234669","Bellevue College","2023","33",
+"234696","Bellingham Technical College","2023","45",
+"234711","Big Bend Community College","2023","37",
+"234827","Central Washington University","2023","50","50"
+"234845","Centralia College","2023","46",
+"234933","Clark College","2023","36",
+"234951","Clover Park Technical College","2023","41",
+"234979","Columbia Basin College","2023","28",
+"235097","Eastern Washington University","2023","47","47"
+"235103","Edmonds College","2023","33",
+"235149","Everett Community College","2023","38",
+"235167","The Evergreen State College","2023","44","44"
+"235237","Pierce College District","2023","31",
+"235334","Grays Harbor College","2023","32",
+"235343","Green River College","2023","41",
+"235431","Highline College","2023","39",
+"235699","Lake Washington Institute of Technology","2023","40",
+"235750","Lower Columbia College","2023","25",
+"236072","North Seattle College","2023","32",
+"236188","Olympic College","2023","34",
+"236258","Peninsula College","2023","41",
+"236382","Renton Technical College","2023","55","78"
+"236504","South Seattle College","2023","26",
+"236513","Seattle Central College","2023","31",
+"236638","Skagit Valley College","2023","34",
+"236692","Spokane Community College","2023","37",
+"236708","Spokane Falls Community College","2023","30",
+"236753","Tacoma Community College","2023","33",
+"236887","Walla Walla Community College","2023","47",
+"236939","Washington State University","2023","62","62"
+"236948","University of Washington-Seattle Campus","2023","84","84"
+"236975","Wenatchee Valley College","2023","40",
+"237011","Western Washington University","2023","66","66"
+"237039","Whatcom Community College","2023","36",
+"237109","Yakima Valley College","2023","34",
+"237215","Bluefield State University","2023","35","35"
+"237330","Concord University","2023","42","42"
+"237367","Fairmont State University","2023","48","45"
+"237385","Glenville State University","2023","35","39"
+"237525","Marshall University","2023","49","49"
+"237686","West Virginia University at Parkersburg","2023","31",
+"237701","Potomac State College of West Virginia University","2023","26",
+"237792","Shepherd University","2023","49","49"
+"237880","West Virginia School of Osteopathic Medicine","2023",,
+"237899","West Virginia State University","2023","34","34"
+"237932","West Liberty University","2023","61","56"
+"237950","West Virginia University Institute of Technology","2023","36","36"
+"238032","West Virginia University","2023","61","60"
+"238263","Madison Area Technical College","2023","26",
+"240189","University of Wisconsin-Whitewater","2023","64","64"
+"240268","University of Wisconsin-Eau Claire","2023","68","68"
+"240277","University of Wisconsin-Green Bay","2023","53","53"
+"240329","University of Wisconsin-La Crosse","2023","71","71"
+"240365","University of Wisconsin-Oshkosh","2023","58","58"
+"240374","University of Wisconsin-Parkside","2023","40","40"
+"240417","University of Wisconsin-Stout","2023","53","53"
+"240426","University of Wisconsin-Superior","2023","44","44"
+"240444","University of Wisconsin-Madison","2023","89","89"
+"240453","University of Wisconsin-Milwaukee","2023","51","51"
+"240462","University of Wisconsin-Platteville","2023","62","62"
+"240471","University of Wisconsin-River Falls","2023","61","61"
+"240480","University of Wisconsin-Stevens Point","2023","56","56"
+"240514","Central Wyoming College","2023","40",
+"240620","Laramie County Community College","2023","31",
+"240657","Northwest College","2023","44",
+"240693","Western Wyoming Community College","2023","33",
+"240727","University of Wyoming","2023","60","60"
+"240736","American Samoa Community College","2023","48","73"
+"240745","Guam Community College","2023","22",
+"240754","University of Guam","2023","42","41"
+"240790","Northern Marianas College","2023","42","22"
+"241720","Colegio Universitario de San Juan","2023","30","14"
+"241766","Puerto Rico Conservatory of Music","2023","57","57"
+"241951","Escuela de Artes Plasticas y Diseno de Puerto Rico","2023","45","45"
+"243106","University of Puerto Rico-Aguadilla","2023","48","43"
+"243115","University of Puerto Rico-Arecibo","2023","51","50"
+"243133","University of Puerto Rico-Bayamon","2023","31","28"
+"243142","University of Puerto Rico-Carolina","2023","40","48"
+"243151","University of Puerto Rico at Cayey","2023","49","49"
+"243179","University of Puerto Rico-Humacao","2023","53","52"
+"243188","University of Puerto Rico-Utuado","2023","25","15"
+"243197","University of Puerto Rico-Mayaguez","2023","47","47"
+"243203","University of Puerto Rico-Medical Sciences","2023",,
+"243212","University of Puerto Rico at Ponce","2023","51","52"
+"243221","University of Puerto Rico-Rio Piedras","2023","52","52"
+"243638","College of Micronesia-FSM","2023","29",
+"243665","University of the Virgin Islands","2023","29","28"
+"243780","Purdue University-Main Campus","2023","83","83"
+"247834","Collin County Community College District","2023","22",
+"260372","Lac Courte Oreilles Ojibwe University","2023","13",
+"262086","University of Massachusetts Global","2023","0",
+"262129","New College of Florida","2023","62","62"
+"364016","Paradise Valley Community College","2023","20",
+"366252","Pennsylvania College of Technology","2023","50","54"
+"366340","Stone Child College","2023","33",
+"366711","California State University-San Marcos","2023","54","54"
+"376695","College of the Marshall Islands","2023","14",
+"377555","University of Washington-Bothell Campus","2023","68","68"
+"377564","University of Washington-Tacoma Campus","2023","62","62"
+"380359","Bay Mills Community College","2023","30",
+"380368","Fond du Lac Tribal and Community College","2023","21",
+"380377","Northwest Indian College","2023","27","29"
+"409315","South Texas College","2023","28","11"
+"409698","California State University-Monterey Bay","2023","63","63"
+"416801","The University of Texas MD Anderson Cancer Center","2023",,
+"433174","Carolinas College of Health Sciences","2023","100",
+"433660","Florida Gulf Coast University","2023","56","56"
+"434584","Ilisagvik College","2023","36",
+"435000","Louisiana State University Health Sciences Center-Shreveport","2023",,
+"436818","University of Connecticut-Waterbury Campus","2023","59","59"
+"436827","University of Connecticut-Avery Point","2023","57","57"
+"436836","University of Connecticut-Stamford","2023","57","57"
+"439190","Cascadia College","2023","41",
+"440828","Oregon State University-Cascades Campus","2023","51","51"
+"440916","Southern University Law Center","2023",,
+"441900","Nevada State University","2023","31","31"
+"441937","California State University-Channel Islands","2023","53","53"
+"442569","University of Arkansas Grantham","2023","24","25"
+"445188","University of California-Merced","2023","69","69"
+"447689","Georgia Gwinnett College","2023","20","20"
+"456959","University of Minnesota-Rochester","2023","57","57"
+"459949","Texas A&M University-San Antonio","2023","29","29"
+"463056","University of Connecticut-Hartford Campus","2023","65","65"
+"476975","Colorado State University Global","2023",,
+"479956","Pennsylvania State University-World Campus","2023","34","31"
+"482149","Augusta University","2023","49","49"
+"482158","Middle Georgia State University","2023","26","26"
+"482680","University of North Georgia","2023","37","52"
+"482699","South Georgia State College","2023","20",
+"482936","Florida Polytechnic University","2023","53","53"
+"483036","Texas A&M University-Central Texas","2023",,
+"483124","Arizona State University Digital Immersion","2023",,
+"484473","University of Florida-Online","2023","78","33"
+"484905","University of North Texas at Dallas","2023","44","44"
+"485111","Georgia Military College","2023","33",
+"486840","Kennesaw State University","2023","48","48"
+"487010","The University of Tennessee Health Science Center","2023",,
+"488800","Teachers College of San Joaquin","2023",,
+"489779","Purdue University Global","2023","48","50"
+"490805","Purdue University Northwest","2023","44","44"
+"491288","University of Wisconsin-Milwaukee Flex","2023",,
+"491297","University of Wisconsin-Parkside Flex","2023",,
+"492689","Texas Tech University Health Sciences Center-El Paso","2023",,
+"498562","Commonwealth University of Pennsylvania","2023","53","54"
+"498571","Pennsylvania Western University","2023","51","53"

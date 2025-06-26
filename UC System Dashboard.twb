@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8' ?>
 
 <!-- build 20252.25.0514.2217                               -->
-<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='mac' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<workbook original-version='18.1' source-build='2025.2.0 (20252.25.0514.2217)' source-platform='mac' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
   <document-format-change-manifest>
     <AccessibleZoneTabOrder />
     <AnimationOnByDefault />
@@ -19,6 +19,7 @@
     <WindowsPersistSimpleIdentifiers />
     <WorksheetBackgroundTransparency />
   </document-format-change-manifest>
+  <repository-location id='UCAdmissionsEnrollmentIPEDS2023' path='/workbooks' revision='1.0' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -28,7 +29,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='IPEDS_2023_Final_Clean' name='excel-direct.1h93wd80f855gu1h99yxp1850vyi'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/jamiepanchak/Desktop/portfolio/Education Datasets/data cleaned/IPEDS_2023_Final_Clean.xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='/Users/jamiepanchak/Desktop/portfolio/Education Datasets/data cleaned/IPEDS_2023_Final_Clean.xlsx' interpretationMode='0' password='' server='' validate='no' workgroup-auth-mode='as-is' />
           </named-connection>
         </named-connections>
         <relation connection='excel-direct.1h93wd80f855gu1h99yxp1850vyi' name='Sheet1' table='[Sheet1$]' type='table'>
@@ -1342,8 +1343,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1150' minheight='1150' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='30' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97818' id='29' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1091'>
+            <zone h='100000' id='34' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97818' id='33' param='vert' type-v2='layout-flow' w='97538' x='1231' y='1091'>
                 <zone forceUpdate='true' h='9414' id='12' type-v2='text' w='97538' x='1231' y='1091'>
                   <formatted-text>
                     <run fontcolor='#000000' fontsize='11'>UC System Admissions &amp; Enrollment — IPEDS 2023</run>

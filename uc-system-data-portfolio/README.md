@@ -1,6 +1,6 @@
 uc-system-data-portfolio
 
-This dashboard analyzes University of California institutions using 2023 IPEDS data. It explores enrollment, graduation rates to uncover patterns in student success and resource allocation.
+This dashboard analyzes University of California institutions using 2023 IPEDS data. It explores undergraduate enrollment and admission rates for each UC Campus.
 
 Tools Used:
 - Python (Pandas, data cleaning)

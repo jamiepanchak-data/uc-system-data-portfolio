@@ -73,8 +73,8 @@ def save_cleaned_data(df, output_path):
     df.to_excel(output_path, index=False)
 
 def main():
-    input_path = "/Users/jamiepanchak/Desktop/portfolio/Education Datasets/data cleaned/IPEDS_2023_Merged.xlsx"
-    output_path = "/Users/jamiepanchak/Desktop/portfolio/Education Datasets/data cleaned/IPEDS_2023_Final_Clean.xlsx"
+    input_path = "/Users/jamiepanchak/Desktop/portfolio/uc-system-data-portfolio/data/cleaned_data/IPEDS_2023_Merged.xlsx"
+    output_path = "/Users/jamiepanchak/Desktop/portfolio/uc-system-data-portfolio/data/cleaned_data/IPEDS_2023_Final_Clean.xlsx"
 
     df = load_data(input_path)
     df = drop_unwanted_columns(df)

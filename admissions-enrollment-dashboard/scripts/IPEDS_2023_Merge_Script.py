@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 # Set folder path
-folder_path = "/Users/jamiepanchak/Desktop/portfolio/Education Datasets"
+folder_path = "/Users/jamiepanchak/Desktop/portfolio/uc-system-data-portfolio/data"
 
 # File names
 files = {
@@ -36,7 +36,7 @@ for name, df in dfs.items():
 merged = merged.drop_duplicates(subset='unitid')
 
 # Create output folder if it doesn't exist
-output_folder = os.path.join(folder_path, 'data cleaned')
+output_folder = os.path.join(folder_path, 'cleaned_data')
 os.makedirs(output_folder, exist_ok=True)
 
 # Save to Excel
